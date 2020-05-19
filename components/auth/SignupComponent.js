@@ -6,9 +6,9 @@ import LoginGoogle from './LoginGoogle';
 
 const SignupComponent = () => {
     const [values, setValues] = useState({
-        name: 'hkwolf',
-        email: 'hkwolfx@gmail.com',
-        password: 'rrrrrr',
+        name: '',
+        email: '',
+        password: '',
         error: '',
         loading: false,
         message: '',
