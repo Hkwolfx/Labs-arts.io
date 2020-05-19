@@ -122,7 +122,7 @@ const Index = () => {
                                             <h3 className="h1">Art-Vivant</h3>
                                         </a>
                                     </Link>
-                                    <p className="lead">Oui c'est de l'art !!!!!</p>
+                                    <p className="lead">Oui c'est de l'art !!!!!!</p>
                                 </div>
                             </div>
                         </div>
