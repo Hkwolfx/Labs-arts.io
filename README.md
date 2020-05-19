@@ -29,4 +29,6 @@ I apologize for the inconvenience and am working on it to debug it in next days.
 
 https://www.canva.com/design/DAD8tMYvTME/cEMdiWUdqMVO6AF24nduyg/view?utm_content=DAD8tMYvTME&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
+MIT LICENSE : https://github.com/Hkwolfx/Labs-Arts.io/blob/master/LICENSE.md
+
 Developed with love by Hkwolfx.
