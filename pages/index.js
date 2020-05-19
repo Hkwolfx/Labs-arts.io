@@ -9,7 +9,7 @@ const Index = () => {
                     <div className="row">
                         <div className="col-md-12 text-center">
                             <h1 className="display-4 font-weight-bold">
-                                PROGRAMMING & WEB DEVELOPMENT BLOGS/TUTORIALS
+                                ARTISTIC BLOGS & TUTORIALS
                             </h1>
                         </div>
                     </div>
@@ -19,8 +19,7 @@ const Index = () => {
                     <div className="row">
                         <div className="col-md-12 text-center pt-4 pb-5">
                             <p className="lead">
-                                Best programming and web development blogs and tutorials on React Node NextJs and
-                                JavaScript
+                                Best sharing platform for artists and creators.
                             </p>
                         </div>
                     </div>
@@ -38,15 +37,15 @@ const Index = () => {
                                             ')'
                                     }}
                                 >
-                                    <h2 className="text-shadow text-center h1">React</h2>
+                                    <h2 className="text-shadow text-center h1">Cinema</h2>
                                 </div>
                                 <div className="back text-center">
-                                    <Link href="/categories/react">
+                                    <Link href="/categories/cinema">
                                         <a>
-                                            <h3 className="h1">React Js</h3>
+                                            <h3 className="h1">Cinema</h3>
                                         </a>
                                     </Link>
-                                    <p className="lead">The world's most popular frontend web development library</p>
+                                    <p className="lead">Venez échanger et apprendre autour du Cinéma</p>
                                 </div>
                             </div>
                         </div>
@@ -62,16 +61,16 @@ const Index = () => {
                                             ')'
                                     }}
                                 >
-                                    <h2 className="text-shadow text-center h1">Node</h2>
+                                    <h2 className="text-shadow text-center h1">Musique</h2>
                                 </div>
                                 <div className="back text-center">
-                                    <Link href="/categories/node">
+                                    <Link href="/categories/musique">
                                         <a>
-                                            <h3 className="h1">Node Js</h3>
+                                            <h3 className="h1">Musique</h3>
                                         </a>
                                     </Link>
                                     <p className="lead">
-                                        The worlds most popular backend development tool for JavaScript Ninjas
+                                        Vous jouez quoi en ce moment ? 
                                     </p>
                                 </div>
                             </div>
@@ -88,15 +87,15 @@ const Index = () => {
                                             ')'
                                     }}
                                 >
-                                    <h2 className="text-shadow text-center h1">Next</h2>
+                                    <h2 className="text-shadow text-center h1">Photographie</h2>
                                 </div>
                                 <div className="back text-center">
-                                    <Link href="/categories/nextjs">
+                                    <Link href="/categories/photographie">
                                         <a>
-                                            <h3 className="h1">Next Js</h3>
+                                            <h3 className="h1">photographie</h3>
                                         </a>
                                     </Link>
-                                    <p className="lead">A Production ready web framework for building SEO React apps</p>
+                                    <p className="lead">Partagez vos meilleurs shots !</p>
                                 </div>
                             </div>
                         </div>
