@@ -17,7 +17,7 @@ With the second go to backend folder and type npm start
 It will run the entire project without the protected files.
 You can run here any modifications on the front and save it.
 
-Give me a pull request for any improvement, any contributions is appreciated.
+Give me a pull request for any improvement, any contribution is appreciated.
 
 For the " npm install <> " packages.
 Refers to package.json in both frontend and backend folders and npm install the entire list.
