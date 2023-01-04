@@ -1,8 +1,5 @@
 # Labs-Arts.io
 
-Npm run build = process to open SSL console as admin@seoadmin
-
-log in
 
 To apply any changes on live server = npm run build + pm2 start npm -- start for frontend
                                       pm2 start npm -- start for backend
